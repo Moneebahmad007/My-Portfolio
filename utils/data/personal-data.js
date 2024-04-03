@@ -2,7 +2,7 @@ export const personalData = {
   name: "Moneeb Ahmad Amin",
   profile: '\me.png',
   designation: "Software Engineer",
-  description: "I am a graduate from the esteemed University of Lahore with a degree in Software Engineering, eager to embark on a fulfilling journey in the tech industry. With a solid foundation in React Native, honed through my Final Year Project, and proficiency in Web Development, I am excited to leverage my skills and contribute to innovative projects. Additionally, I possess initial level experience in Python and am committed to continuous learning and growth in this dynamic field.",
+  description: "I am a graduate from University of Lahore with a degree in Software Engineering, eager to embark on a fulfilling journey in the tech industry. With a solid foundation in React Native, honed through my Final Year Project, and proficiency in Web Development, I am excited to leverage my skills and contribute to innovative projects. Additionally, I possess initial level experience in Python and am committed to continuous learning and growth in this dynamic field.",
   email: 'moneebahmad51@gmail.com',
   phone: '+923134169088',
   address: 'Lahore, Punjab, Pakistan ',
