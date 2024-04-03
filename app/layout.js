@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
   title: 'Moneeb Ahmad Amin',
-  description: 'As a recent graduate passionate about software engineering, I specialize in Python, Natural Language Processing, React Native, website development and Laravel. I'm ready to kick-start my career, seeking dynamic environments where I can contribute my expertise and continuously evolve, let uss collaborate to create impactful solutions and fuel innovation together.',
+  description: 'As a recent graduate passionate about software engineering, I specialize in Python, Natural Language Processing, React Native, website development and Laravel. I'm ready to kick-start my career, seeking dynamic environments',
 }
 
 export default function RootLayout({ children }) {
