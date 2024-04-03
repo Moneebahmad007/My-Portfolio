@@ -9,8 +9,8 @@ import './css/globals.scss';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Atta Elahi',
-  description: 'This is the portfolio of Atta Elahi. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.',
+  title: 'Moneeb Ahmad Amin',
+  description: 'As a recent graduate passionate about software engineering, I specialize in Python, Natural Language Processing, React Native, website development and Laravel. I'm ready to kick-start my career, seeking dynamic environments where I can contribute my expertise and continuously evolve, let uss collaborate to create impactful solutions and fuel innovation together.',
 }
 
 export default function RootLayout({ children }) {
